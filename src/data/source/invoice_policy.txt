@@ -1,0 +1,70 @@
+Here's a sample accounts payable policy that covers key areas typically addressed in such policies:
+
+## Accounts Payable Policy
+
+### 1. Purpose
+
+This policy establishes guidelines and procedures for the accounts payable function to ensure timely and accurate payment of legitimate business expenses while maintaining effective internal controls.
+
+### 2. Scope
+
+This policy applies to all employees, departments, and vendors involved in the accounts payable process.
+
+### 3. Invoice Processing
+
+#### 3.1 Receipt of Invoices
+- All invoices must be directed to the accounts payable department.
+- Invoices received by other departments must be forwarded to accounts payable within 2 business days.
+
+#### 3.2 Invoice Verification
+- All invoices must be matched to a purchase order and receiving document (where applicable).
+- Discrepancies must be resolved with the vendor and/or requesting department before processing.
+
+#### 3.3 Approval
+- Invoices must be approved by authorized personnel according to the company's approval matrix.
+- Approvers must verify the accuracy of goods/services received, pricing, and account coding.
+- Invoices with total amount less than 1000 USD will be auto approved by the system.
+- Invoices with total amount larger than 1000 USD must have at least 1 approver approved.
+
+### 4. Payment Terms and Timing
+
+- Standard payment terms are net 30 days unless otherwise negotiated.
+- Early payment discounts should be taken when available and economically beneficial.
+- Payments will be processed weekly to ensure timely payment of invoices.
+
+### 5. Payment Methods
+
+- Electronic Funds Transfer (EFT) is the preferred method of payment.
+- Checks may be issued when EFT is not possible or practical.
+- Petty cash should only be used for minor expenses under $100.
+
+### 6. Vendor Management
+
+- New vendors must be approved and set up in the system following the vendor onboarding process.
+- Vendor information must be reviewed annually to ensure accuracy.
+- Inactive vendors should be deactivated after 18 months of inactivity.
+
+### 7. Record Keeping
+
+- All invoices, supporting documents, and payment records must be retained for 7 years.
+- Records must be stored securely and in compliance with data protection regulations.
+
+### 8. Segregation of Duties
+
+- Duties of invoice processing, payment approval, and payment execution must be segregated among different individuals.
+
+### 9. Expense Reports
+
+- Employee expense reports must be submitted within 30 days of incurring the expense.
+- All expense reports must be approved by the employee's supervisor and comply with the company's travel and expense policy.
+- Expenses less than 100 USD will be auto approved once the report is submitted.
+- Expenses more than 100 USD must be approved by at least 1 approver.
+
+### 10. Audits and Compliance
+
+- The accounts payable function will be subject to periodic internal audits.
+- Any suspected fraudulent activity must be reported immediately to management and the internal audit department.
+
+### 11. Policy Review
+
+This policy will be reviewed annually and updated as necessary to reflect changes in business practices or regulatory requirements.
